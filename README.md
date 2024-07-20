@@ -1,2 +1,1 @@
-# AI Assistant
- Interactive AI Assistant
+# Small Python Projects
